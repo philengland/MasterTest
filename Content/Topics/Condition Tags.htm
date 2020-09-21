@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Default.PrintOnly,Default.ScreenOnly">
+    <head>
+    </head>
+    <body>
+        <h1 class="Title">Condition Tags</h1>
+        <p class="Blue" MadCap:conditions="Default.ScreenOnly">This is text that is Conditioned for ScreenOnly</p>
+        <p class="Red" MadCap:conditions="Default.PrintOnly">This is text that is Conditioned for PrintOnly</p>
+        <p class="Green" MadCap:conditions="Default.PrintOnly,Default.ScreenOnly">This is text that is Conditioned for both ScreenOnly and PrintOnly</p>
+        <p>&#160;</p>
+        <p>This is normal pink text, the normal kind.</p>
+        <p>&#160;</p>
+        <MadCap:miniTocProxy style="mc-toc-depth: 2;" />
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <div MadCap:conditions="Default.PrintOnly">
+            <p>This should be out</p>
+            <p MadCap:conditions="Default.ScreenOnly">This should be in</p>
+            <p>This should be out</p>
+        </div>
+    </body>
+</html>

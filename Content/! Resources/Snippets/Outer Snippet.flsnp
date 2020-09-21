@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <h1>This is a snippet that contains another Snippet</h1>
+        <p>&#160;</p>
+        <p><a href="../../Topics/Bookmark Tests.htm#AfterSnippets">Hyperlink to 'AfterSnippet' Bookmark</a>
+        </p>
+        <MadCap:snippetBlock src="Inner Snippet.flsnp" />
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>Togglers Mess up Bookmark link behaviors when the Named Element is identical to another Bookmark</p>
+        <p>
+            <MadCap:toggler targets="OuterSnippet">Click Me!</MadCap:toggler>
+        </p>
+        <p MadCap:targetName="OuterSnippet">Named Element - OuterSnippet</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p><a name="OuterSnippet"></a>Location of #OuterSnippet Bookmark</p>
+        <h2>End of Outer Snippet</h2>
+    </body>
+</html>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  ShowMadCapBacklink="false"
+  GlossaryTermConversion="all"
+  MasterToc="/Project/TOCs/Test.fltoc"
+  MasterPage="/Content/! Resources/MasterPages/MasterPage.flmsp"
+  MasterPageLayout="/Content/! Resources/PageLayouts/Default.flpgl"
+  MasterStylesheet="/Content/! Resources/Stylesheets/Styles.css"
+  MasterStylesheetOverride="true"
+  MobileBreakpoint="773"
+  PartialWordSearch="false"
+  SearchFilterSet="/Project/Advanced/Search Filters/SearchFilter.flsfs"
+  InsertMOTW="false"
+  ConvertStylesheetStylesToInlineStyles="true"
+  ExcludeUnreferencedContent="true"
+  SearchResultsSkin="/Project/Skins/Search Results.flskn"
+  SearchEngine="MadCapSearch"
+  TopicToolbarSkin="/Project/Skins/Topic Toolbar.flskn"
+  MoveOutputContentToRoot="false"
+  TopNavTocPath="true"
+  CentralLinkIds=""
+  TargetLanguage="en-us"
+  GenerateAllSkins="true"
+  DisableAutoSync="true"
+  ConditionTagExpression="exclude[Default.ExcludeMe]"
+  Medium="print, projection"
+  EquationsOutputType="PNG">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="doc" />
+  <Destinations></Destinations>
+  <Elasticsearch
+    Guid="6527fb3f-5502-4855-9b0f-7a71d8759fca" />
+  <Variables>
+    <Variable
+      Name="Variables/NoDefo">Target defo tho</Variable>
+    <Variable
+      Name="AddedVariableSet/Target/Slash">target definition</Variable>
+  </Variables>
+</CatapultTarget>

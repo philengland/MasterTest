@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry
+    glossTerm="Glossary.Term0"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Terminus</Term>
+    </Terms>
+    <Definition
+      Link="">Definitius</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term1">
+    <Terms>
+      <Term>Active</Term>
+    </Terms>
+    <Definition>This is my definition with a hyperlink here. Active</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term4"
+    Stem=""
+    IgnoreCase="true">
+    <Terms>
+      <Term>Termone</Term>
+    </Terms>
+    <Definition
+      Link="">This is what a termone is. It might even be a bit longer to really define what a termone is, so that the scientific community doesn't just raise issues.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term5"
+    Stem=""
+    IgnoreCase="true">
+    <Terms>
+      <Term>Termtwo</Term>
+    </Terms>
+    <Definition
+      Link="">This is the definition of a termtwo. It's a termtwo!</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term6"
+    Stem=""
+    IgnoreCase="true"
+    TermClass="Popup">
+    <Terms>
+      <Term>Termthree</Term>
+    </Terms>
+    <Definition
+      Link="">Definition of a termthree here. A termthree definition</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term2"
+    Stem=""
+    IgnoreCase="true">
+    <Terms>
+      <Term>TopicDef</Term>
+    </Terms>
+    <Definition
+      Link="/Content/Topics/Glossary Term Definition Topic.htm"></Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term3">
+    <Terms>
+      <Term>Blaboonkus</Term>
+    </Terms>
+    <Definition>bob's blobby bazookas</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

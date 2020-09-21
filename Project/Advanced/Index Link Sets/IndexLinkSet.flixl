@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultIndexLinkSet>
+  <IndexLink
+    Term="Active"
+    LinkType="sortas"
+    LinkedTerm="Other Term:Subterm"></IndexLink>
+  <IndexLink
+    Term="Joint"
+    LinkType="sortas"
+    LinkedTerm="Other Term:Subterm"></IndexLink>
+</CatapultIndexLinkSet>

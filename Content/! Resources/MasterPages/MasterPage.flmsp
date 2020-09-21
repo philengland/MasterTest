@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <MadCap:topicToolbarProxy style="mc-topic-toolbar-items: ;" />
+        <MadCap:breadcrumbsProxy />
+        <p><MadCap:variable name="Variables.NewDateTimeVariable" />
+        </p>
+        <div style="width: 25%;display: block;float: right;">
+            <MadCap:menuProxy style="top: 300px;mc-toc-depth: 4;mc-context-sensitive: True;mc-include-parent: False;mc-include-siblings: True;mc-include-children: True;" data-mc-skin="/Project/Skins/Menu.flskn" />
+        </div>
+        <div style="float: left;width: 70%;display: block;">
+            <MadCap:bodyProxy />
+        </div>
+    </body>
+</html>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Default.ExcludeMe">
+    <head>
+    </head>
+    <body>
+        <h1>This is a snippet that goes in another snippet</h1>
+        <p>&#160;</p>
+        <h2>Hyperlink to Bookmark in OuterSnippet</h2>
+        <p>Linking directly to a Snippet is not supported. Nice try!</p>
+        <p><a href="#OuterSnippet">This &lt;a&gt; contains a Bookmark-only href value to OuterSnippet Bookmark</a> as a workaround.
+        </p>
+        <p>&#160;</p>
+        <h2>Hyperlink to Bookmark in Topic file</h2>
+        <p><a href="../../Topics/Bookmark Tests.htm#AfterSnippets">Link to 'AfterSnippets' Bookmark</a>
+        </p>
+        <p>&#160;</p>
+        <h2>Hyperlink to Bookmark in table in Topic file</h2>
+        <p><a href="../../Topics/Bookmark Tests.htm#TableBookmark">Link to 'TableBookmark' Bookmark</a>
+        </p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <h2>Conditions</h2>
+        <p MadCap:conditions="Default.IncludeMe">Include me (I should show up, but the line below me should not)</p>
+        <p MadCap:conditions="Default.ExcludeMe">Exclude me (I should not show up)</p>
+        <h2>End of Inner Snippet</h2>
+    </body>
+</html>

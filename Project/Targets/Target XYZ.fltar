@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/XYZ.fltoc"
+  ExcludeUnreferencedContent="false"
+  Skin="/Project/Skins/HTML5 - Top Navigation.flskn"
+  MasterPage="/Content/! Resources/MasterPages/MasterPage.flmsp"
+  MasterStylesheet="/Content/! Resources/Stylesheets/Styles.css"
+  DefaultUrl="/Content/Target XYZ Only/XYZ 1.htm">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Glossaries />
+</CatapultTarget>

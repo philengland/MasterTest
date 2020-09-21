@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host=""
+  User="MyAccountId"
+  Password=""
+  Directory="https://madcapsoftware.sharepoint.com/Shared Documents/PhilE/Master Test"
+  Port=""
+  ViewUrl="http://www.madcapsoftware.com/"
+  Type="file"
+  AnonymousLogin="false"></CatapultDestination>

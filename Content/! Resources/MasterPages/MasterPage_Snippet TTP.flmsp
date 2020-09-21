@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <MadCap:snippetBlock src="../Snippets/Topic Toolbar Proxy.flsnp" />
+        <MadCap:breadcrumbsProxy />
+        <p><MadCap:variable name="Variables.NewDateTimeVariable" />
+        </p>
+        <MadCap:bodyProxy />
+    </body>
+</html>

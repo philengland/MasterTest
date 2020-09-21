@@ -1,0 +1,55 @@
+/*<meta conditions="Default.PrintOnly,Default.ScreenOnly" />*/
+
+p.MyStyle
+{
+	font-family: Arial;
+	font-size: 12pt;
+	margin: 0px;
+}
+
+img
+{
+	border: none;
+}
+
+a.Popup
+{
+	
+}
+
+p.Blue
+{
+	color: pink;
+}
+
+MadCap|dropDownHotspot
+{
+	color: limegreen;
+}
+
+MadCap|dropDownHotspot:focus
+{
+	color: limegreen;
+}
+
+MadCap|dropDownHotspot:hover
+{
+	color: limegreen;
+	background-color: pink;
+}
+
+h1
+{
+	color: pink;
+}
+
+p
+{
+	color: magenta;
+}
+
+MadCap|microContent
+{
+	color: green;
+}
+

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="HtmlHelp"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/CSH Testing.fltoc"
+  DisableAutoSync="true"
+  GetLatestBeforeCompile="true"
+  ExcludeUnreferencedContent="true"
+  CentralLinkIds=""
+  TargetLanguage="ar"
+  MasterStylesheet="/Content/! Resources/Stylesheets/MainStyles.css">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+</CatapultTarget>

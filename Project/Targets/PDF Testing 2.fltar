@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/Test.fltoc"
+  ConditionTagExpression=""
+  MasterStylesheet="/Content/! Resources/Stylesheets/Styles.css"
+  MasterPageLayout="/Content/! Resources/PageLayouts/Default - A4.flpgl"
+  MasterPage="/Content/! Resources/MasterPages/MasterPage.flmsp"
+  ExcludeUnreferencedContent="true"
+  UseEmptyAltText="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    OutputFormat="doc"
+    PreserveTrackedChanges="false" />
+  <PDF
+    PageLayout="OneColumn"
+    InitialMagnification="FitH"
+    DownsampleImages="false"
+    ImageCompression="Automatic" />
+  <DocumentProperties
+    Title="My PDF Title" />
+</CatapultTarget>

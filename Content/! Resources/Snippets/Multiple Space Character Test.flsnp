@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>All spaces are condensed into one unless &#160;&#160;&#160;&#160;non-breaking&#160;&#160;&#160;&#160;&#160;spaces&#160;&#160;&#160;&#160;&#160;&#160;are&#160;&#160;&#160;&#160;used like this.</p>
+        <p>&#160;</p>
+        <p>For multi-line &lt;p&gt; elements which use the &lt;br/&gt; line break character<br />just like this paragraph here<br />the &lt;br&gt; will be stripped when the Snippet is inserted.</p>
+        <p>&#160;</p>
+        <p><b>Adjacent</b> <b>bolded</b> <b>spans</b> <b>are</b> <b>also</b> <b>having</b> <b>spaces</b> <b>between</b> them stripped when the Snippet is inserted</p>
+        <p>&#160;</p>
+        <p>However, <b>this</b>&#160;<b>does</b>&#160;<b>not</b>&#160;<b>happen</b> if non-breaking spaces are used between the adjacent bolded spans of text</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>This is a <b>line</b> <b>of</b> text.</p>
+    </body>
+</html>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    Comment=""
+    Name="ScreenOnly"
+    BackgroundColor="#00ffff" />
+  <ConditionTag
+    Comment=""
+    Name="PrintOnly"
+    BackgroundColor="#ff00ff" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="Unused Images"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="Condition1"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="Condition2"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="IncludeMe"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ff5637"
+    Name="ExcludeMe"
+    Comment="" />
+</CatapultConditionTagSet>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultExportProjectFile
+  DestinationType="Target"
+  SourceProjectPath="C:\Users\pengland\Desktop\! Test Projects\! Master Test\Master Test.flprj"
+  DestinationName="TableStyle Export Test"
+  DestinationPath="C:\Users\pengland\Desktop"
+  ExportType="Files"
+  TargetPath="PDF Testing.fltar"
+  TargetConvertVariables="false"
+  TargetConvertSnippets="false">
+  <SelectedContentFiles />
+  <SelectedProjectFiles />
+</CatapultExportProjectFile>

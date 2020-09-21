@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <MadCap:breadcrumbsProxy style="width: 75%;" /> <!-- Menu Proxy will be 25% wide, so this will be 100% - 25% = 75% -->
+		<MadCap:topicToolbarProxy class="" style="mc-topic-toolbar-items: ; width: 75%;" /> <!-- same again -->
+		<MadCap:bodyProxy style="width: 75%;" /> <!-- again, width just needs to be 100 - x if you're using % units -->
+		<div style="position: fixed; width: 25%; top: 15%; right: 0;"> <!-- this is where the real magic happens. change values as needed for desired styling -->
+			<MadCap:menuProxy mc-linked-toc="$topicHeadings" style="mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" />
+		</div>
+	</body>
+</html>

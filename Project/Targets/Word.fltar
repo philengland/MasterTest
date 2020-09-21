@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="MsWord"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  GlossaryTermConversion="marked"
+  PatchHeadingLevels="true"
+  MasterToc="/Project/TOCs/Word Testing.fltoc"
+  MasterStylesheet="/Content/! Resources/Stylesheets/Styles.css"
+  DisableAutoSync="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    PreserveTrackedChanges="false"
+    OutputFormat="docx" />
+</CatapultTarget>

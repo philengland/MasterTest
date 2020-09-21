@@ -1,0 +1,574 @@
+/*<meta conditions="" />*/
+
+@font-face 
+{
+	font-family: 'Michroma';
+	src: url(../Fonts/Michroma.ttf);
+}
+
+@font-face 
+{
+	font-family: 'Roboto';
+	src: url(../Fonts/Roboto-Regular.ttf);
+}
+
+body
+{
+	font-family: Arial;
+}
+
+h1
+{
+	font-weight: bold;
+	font-size: 24.0pt;
+	color: var(--MattyB);
+	font-family: Arial;
+}
+
+h2
+{
+	font-weight: bold;
+	font-size: 18.0pt;
+}
+
+h3
+{
+	font-weight: bold;
+	font-size: 14.0pt;
+}
+
+h4
+{
+	font-weight: bold;
+	font-size: 12.0pt;
+}
+
+h5
+{
+	font-weight: bold;
+	font-size: 10.0pt;
+}
+
+h6
+{
+	font-weight: bold;
+	font-size: 8.0pt;
+}
+
+p
+{
+	font-size: 12.0pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-family: Roboto;
+}
+
+ol,
+ul
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+img
+{
+	border: none;
+}
+
+a.Popup
+{
+	
+}
+
+MadCap|expandingHead
+{
+	font-style: italic;
+	font-weight: normal;
+	cursor: hand;
+	text-decoration: none;
+	color: #006600;
+}
+
+MadCap|expandingBody
+{
+	color: #777777;
+	font-style: italic;
+}
+
+MadCap|dropDownHotspot
+{
+	cursor: hand;
+	font-style: italic;
+	text-decoration: none;
+	color: #006600;
+}
+
+p.Red
+{
+	color: red;
+}
+
+p.Blue
+{
+	color: blue;
+	mc-disabled: false;
+}
+
+p.Black
+{
+	color: black;
+	background-size: inherit;
+}
+
+img.Thumbnail
+{
+	width: 1000px;
+}
+
+th
+{
+	background-color: #ff00ff;
+}
+
+td
+{
+	width: 0px;
+}
+
+tr
+{
+	
+}
+
+MadCap|dropDownHotspot:focus
+{
+	color: #006600;
+}
+
+MadCap|dropDownHotspot:hover
+{
+	color: #006600;
+	background-color: red;
+}
+
+MadCap|glossaryProxy
+{
+	color: olive;
+}
+
+MadCap|glossaryTerm.Hyperlink
+{
+	
+}
+
+p.PDFThumbnail
+{
+	height: 100px;
+	background: url('../Images/Froggo.png') 0px / 100px no-repeat;
+	background-color: transparent;
+}
+
+p.TEST
+{
+	font-family: 'Arial Narrow';
+	font-size: 6pt;
+}
+
+p.MiniTOC2
+{
+	color: #00ff00;
+}
+
+MadCap|microContent
+{
+	color: red;
+}
+
+MadCap|breadcrumbsProxy
+{
+	mc-breadcrumbs-prefix: ' ';
+}
+
+MadCap|popup
+{
+	
+}
+
+MadCap|popupBody
+{
+	border: solid 2px hotpink;
+}
+
+:root
+{
+	--TestColor: #ff49e2;
+	--MattyB: #ff8023;
+}
+
+ul
+{
+	color: #ff34ef;
+}
+
+@media print
+{
+	p.TOC2
+	{
+		margin-left: 0pt;
+		mc-leader-offset: 100pt;
+	}
+
+	p.MiniTOC2
+	{
+		
+	}
+
+	p.TOC1
+	{
+		mc-leader-offset: 100pt;
+	}
+
+	img.Thumbnail
+	{
+		
+	}
+
+	p.Important
+	{
+		padding: 3px;
+		mc-auto-number-format: '{color red}{b}IMPORTANT: {/b}{/color}';
+		border: solid 4px red;
+		display: inline-block;
+	}
+
+	table.TableA
+	{
+		width: 100%;
+	}
+
+	MadCap|glossaryProxy
+	{
+		
+	}
+
+	p.NoHyphen
+	{
+		mc-hyphenate: never;
+	}
+
+	img.PDFThumbnail
+	{
+		background-size: 100px 100px;
+	}
+
+	p.PDFThumbnail
+	{
+		height: 100px;
+		background: url('../Images/Froggo.png') no-repeat;
+	}
+
+	p
+	{
+		
+	}
+
+	p.TEST
+	{
+		
+	}
+
+	h1
+	{
+		page-break-before: avoid;
+	}
+
+	p.TOC3
+	{
+		mc-leader-offset: -50pt;
+	}
+
+	MadCap|xref.TOCPageNumber
+	{
+		mc-auto-number-format: '{chapnum}-';
+	}
+
+	td
+	{
+		border: solid 2px red;
+	}
+
+	td.Border
+	{
+		border: solid 2px #b22222;
+	}
+}
+
+@media tablet
+{
+	img.Thumbnail
+	{
+		width: 750px;
+	}
+}
+
+@media mobile
+{
+	img.Thumbnail
+	{
+		width: 400px;
+	}
+}
+
+p.ExtraWide
+{
+	font-size: 12.0pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+@media only screen and (min-device-width: 1500px)
+{
+	p.ExtraWide
+	{
+		max-width: 70%;
+		background-color: yellow;
+	}
+}
+
+@media only screen and (min-device-width: 1700px)
+{
+	p.ExtraWide
+	{
+		background-color: orange;
+		max-width: 60%;
+	}
+}
+
+@media only screen and (min-device-width: 1800px)
+{
+	p.ExtraWide
+	{
+		background-color: red;
+		max-width: 50%;
+	}
+}
+
+.MCTopicPopupContainer
+{
+	top: 10% !important;
+	left: 10% !important;
+	width: auto !important;
+	height: auto !important;
+	margin-top: 0px !important;
+	margin-left: 0px !important;
+}
+
+p.Important
+{
+	border: solid 4px red;
+	mc-auto-number-format: '{color red}{b}IMPORTANT: {/b}{/color}';
+	display: inline-block;
+	padding: 3px;
+}
+
+table.TableA
+{
+	width: 80%;
+}
+
+MadCap|xref
+{
+	mc-format: '{quote}{paratext}{quote} {pageref}';
+	color: #1e90ff;
+}
+
+MadCap|xref.Empty
+{
+	mc-format: '{paratext}';
+	color: pink;
+}
+
+p.Green
+{
+	color: green;
+}
+
+MadCap|xref.Test
+{
+	mc-format: '{paratext}';
+}
+
+a.GlossaryPageLink
+{
+	color: orange;
+}
+
+div.GlossaryPageDefinition
+{
+	margin-bottom: 10pt;
+}
+
+p.NoHyphen
+{
+	
+}
+
+h2.Level1
+{
+	mc-auto-number-format: '{n+}.0 ';
+}
+
+p.Level2
+{
+	mc-auto-number-format: '{n}.{n+} ';
+}
+
+p.Level3
+{
+	mc-auto-number-format: '{n}.{n}.{n+} ';
+}
+
+img.PDFThumbnail
+{
+	
+}
+
+p.MiniTOC2:visited
+{
+	color: #dc143c;
+}
+
+ol.TestList
+{
+	list-style-type: decimal;
+}
+
+ol.TestList > li > ol
+{
+	list-style-type: upper-alpha;
+}
+
+ol.TestList > li > ol > li > ol
+{
+	list-style-type: lower-alpha;
+}
+
+p.OpaqueColorBG
+{
+	font-size: 12.0pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	background-color: rgba(128,255,128,1.0);
+}
+
+p.TransColorBG
+{
+	font-size: 12.0pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	background-color: rgba(128,255,128,0.2);
+}
+
+a.FlareProject
+{
+	color: #a9a9a9;
+	font-style: italic;
+	text-decoration: none;
+}
+
+a.NotFlareProject
+{
+	font-style: italic;
+	color: #a9a9a9;
+	text-decoration: none;
+}
+
+#BackToTop
+{
+	display: none;
+	position: fixed;
+	bottom: 20px;
+	right: 30px;
+	z-index: 99;
+	font-size: 18px;
+	border: none;
+	outline: none;
+	color: transparent;
+	cursor: pointer;
+	padding: 15px;
+	border-radius: 4px;
+	background-color: #555;
+	/*background-image: url(../../Images/Shared/All/General/Back-Top.png);*/
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+div.mc-controls-direction a:focus
+{
+	outline: none;
+}
+
+html.PDF
+{
+	background: #ba55d3;
+}
+
+MadCap|xref.Figure
+{
+	mc-auto-number-format: 'CF:Figure {chapnum}-{n+} ';
+}
+
+MadCap|xref.ParagraphNumberOnly
+{
+	mc-format: "{paranum}";
+}
+
+caption.Caption1
+{
+	
+}
+
+caption.Caption2
+{
+	
+}
+
+MadCap|listOfProxy.List1
+{
+	margin-bottom: 0;
+	background-color: #ffa500;
+	border-right: solid 2px #000000;
+	border-left: solid 2px #000000;
+	border-top: solid 2px #000000;
+}
+
+MadCap|listOfProxy.List2
+{
+	margin-top: 0;
+	padding-top: 0;
+	border-top: none;
+	background-color: #ffa500;
+	border-left: solid 2px #000000;
+	border-right: solid 2px #000000;
+	border-bottom: solid 2px #000000;
+}
+
+h2.CSSPosition
+{
+	font-weight: bold;
+	font-size: 18.0pt;
+	position: absolute;
+}
+
+h1.Title
+{
+	font-family: 'Goudy Stout';
+}
+
+div.SizedDiv
+{
+	max-height: 50px;
+	background-color: skyblue;
+	padding: 20px;
+}
+

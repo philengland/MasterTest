@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title>Hyperlink Tests</title>
+    </head>
+    <body>
+        <h1>Hyperlink Tests</h1>
+        <h2><a name="Variable"></a>Variable in a Hyperlink</h2>
+        <h3><a name="Intended"></a>Intended Path:</h3>
+        <p>C:/Users/pengland/Desktop/! Test Projects/! Master Test/Content/PDFs/Make a PDF.pdf</p>
+        <h3>Variable Definitions:</h3>
+        <p>C:/Users/pengland/Desktop/! Test Projects/! Master Test/</p>
+        <p>C:/Users/pengland/Desktop/! Test Projects/! Test Files/Dummy/</p>
+        <h3>Variable Current Definition:</h3>
+        <p><MadCap:variable name="Variables.HostURL" />
+        </p>
+        <h3>Hyperlink:</h3>
+        <p><a href="../../../! Test Files/Dummy/Content/PDFs/Make a PDF.pdf"><MadCap:variable name="Variables.HostURL" />Content/PDFs/Make a PDF.pdf</a>
+        </p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>http://www.google.com/strap/lucky/my_uncle_mike/<MadCap:variable name="Variables.FileName" /></p>
+        <p><a href="http://www.google.com/strap/lucky/my_uncle_mike/[%=Variables.FileName%]">My PDF</a>
+        </p>
+        <h2>Thumbnail Popup: Testing Topic Scrollability</h2>
+        <p>
+            <img src="../! Resources/Images/Froggo.png" style="mc-thumbnail: popup;" />
+        </p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>Bookmark on Another Page</p>
+        <p><a href="Cross-References.htm#NewBookmark1">Cross-References.htm</a>
+        </p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>Bookmark on this Page</p>
+        <p><a href="#SamePage">Cross-References.htm</a>
+        </p>
+        <p>&#160;</p>
+        <p>This is a sentence.</p>
+        <p>&#160;</p>
+        <h2>Fabricating "External" Link for Test Conditions Before Output is Live</h2>
+        <p>Make a link to a Topic that will eventually be external to the Target output when the Build is Live, but which is not treated as a Relative link to another Topic in the Project during the authoring process</p>
+        <p class="Red">Hyperlink to an "External File" that's in this Project folder structure:   <a href="Cross-References.htm">My file</a> --- this Hyperlink becomes a "File in Project" after creating it, but the full path is preserved FWIW</p>
+        <p class="Red">Hyperlink with a Variable:   <a href="Cross-References.htm">My file</a></p>
+        <ul>
+            <li>Testing URL Path Variable Definition: file:///C:/Users/pengland/Desktop/! Test Projects/! Master Test/Content/</li>
+            <li>Live URL Path Variable Definition: (whatever it should be to access the file on whatever server hosts it later)</li>
+        </ul>
+        <p class="Red">Hyperlink to file in output from another Target: <a href="../../Output/pEngland/External Link/Content/Cross-References.htm">My File</a></p>
+        <p>Hyperlink to file on Desktop: <a href="../../../../Cross-References.htm">My File</a></p>
+        <p>&#160;</p>
+        <h1>Topic Popup (Hyperlink)</h1>
+        <p><a href="Long Text Topic.htm" target="_popup" class="Popup">Topic Popup: Long Text Topic</a>
+        </p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <h1><a name="SamePage"></a>Location of Bookmark for "Bookmark on this Page", Above</h1>
+        <p>The above line of text has that Bookmark</p>
+        <h1>Link to Bookmark</h1>
+        <p><a href="NAME-ONE.htm#Bookmark">NAME-ONE.htm</a>
+        </p>
+        <p>&#160;</p>
+        <h1>Link to Bookmarked element with "position" CSS Property set</h1>
+        <p><a href="Multilevel Topic 1.htm#ALERT:2">Multilevel Topic 1.htm</a>
+        </p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <h2>Hyperlink Tests</h2>
+        <p>Hyperlink to Bookmark in Snippet placed in a Topic</p>
+    </body>
+</html>

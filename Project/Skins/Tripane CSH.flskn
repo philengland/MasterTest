@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="3"
+  SkinType="WebHelp2"
+  Comment="HTML5 Default Tripane skin"
+  Anchors="Width,Height"
+  Width="417px"
+  Height="363px"
+  Top="414px"
+  Left="907px"
+  Bottom="263px"
+  Right="596px"
+  Tabs="TOC,Index,Community"
+  DefaultTab="TOC"
+  UseBrowserDefaultSize="false"
+  UseDefaultBrowserSetup="True"
+  EnableResponsiveOutput="false"
+  AutoSyncTOC="true">
+  <Stylesheet />
+  <Strings />
+  <WebHelpOptions />
+</CatapultSkin>

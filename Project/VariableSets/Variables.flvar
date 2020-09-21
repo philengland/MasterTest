@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet
+  conditions="Default.ExcludeMe">
+  <Variable
+    Name="HostURL"
+    Comment=""
+    EvaluatedDefinition="C:/Users/pengland/Desktop/! Test Projects/! Test Files/Dummy/">C:/Users/pengland/Desktop/! Test Projects/! Test Files/Dummy/</Variable>
+  <Variable
+    Name="URL"
+    Comment=""
+    EvaluatedDefinition="file:///C:/Users/pengland/Desktop/! Test Projects/! Master Test/Content/">file:///C:/Users/pengland/Desktop/! Test Projects/! Master Test/Content/</Variable>
+  <Variable
+    Name="Enable Transformations"
+    Comment="comment 123"
+    EvaluatedDefinition="When selected, additional user interface controls appear throughout the data set editor that allow you to specify remapping source organization data to different objects">When selected, additional user interface controls appear throughout the data set editor that allow you to specify remapping source organization data to different objects</Variable>
+  <Variable
+    Name="Ielich"
+    Comment=""
+    EvaluatedDefinition="minion and other extravagant words like constantinople">minion and other extravagant words like constantinople</Variable>
+  <Variable
+    Name="5_20"
+    Comment="test comment"
+    EvaluatedDefinition="with a Variable">with a Variable</Variable>
+  <Variable
+    Name="NoDefo"
+    Comment=""
+    EvaluatedDefinition="" />
+  <Variable
+    Name="FileName"
+    Comment="stuff here for target code"
+    EvaluatedDefinition="FileName.pdf">FileName.pdf</Variable>
+  <Variable
+    Name="NewDateTimeVariable"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2019-08-27T07:37:54.4313628-07:00"
+    EvaluatedDefinition="&quot;Updated on: &quot; yyyy MMMM dd">"Updated on: " yyyy MMMM dd</Variable>
+  <Variable
+    Name="Date/Time"
+    Comment=""
+    EvaluatedDefinition="the definition for a Variable with a slash in the name">the definition for a Variable with a slash in the name</Variable>
+  <Variable
+    Name="CompanyName"
+    Comment=""
+    EvaluatedDefinition="MadCap Software">MadCap Software</Variable>
+</CatapultVariableSet>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject Version="1" MasterStylesheet="/Content/! Resources/Stylesheets/Excluded Styles.css" MasterPageLayout="/Content/! Resources/PageLayouts/Default.flpgl" MasterStylesheetOverride="True" xml:lang="en-us" SourceControlBound="false" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project." IncludePattern="*.htm;*.html" AutoExcludeNonTaggedFiles="false" IncludeLinkedFiles="false" DeleteStale="false" DeleteUnreferenced="false" AutoSync="true" LastImport="2019-10-23T08:14:48.1228193-07:00">
+    <Files>
+        <Url Source="file:///C:/Users/pengland/Desktop/! Test Projects/Rambunctious Lions/Rambunctious Lions.flprj" AbsoluteSource="file:///C:/Users/pengland/Desktop/! Test Projects/Rambunctious Lions/Rambunctious Lions.flprj" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles>
+        <Url Source="../Rambunctious Lions/Content/Home.htm" AbsoluteSource="file:///C:/Users/pengland/Desktop/! Test Projects/Rambunctious Lions/Content/Home.htm" />
+        <Url Source="../Rambunctious Lions/Content/A_Getting Started/Basic Steps.htm" AbsoluteSource="file:///C:/Users/pengland/Desktop/! Test Projects/Rambunctious Lions/Content/A_Getting Started/Basic Steps.htm" />
+        <Url Source="../Rambunctious Lions/Content/A_Getting Started/Getting Started.htm" AbsoluteSource="file:///C:/Users/pengland/Desktop/! Test Projects/Rambunctious Lions/Content/A_Getting Started/Getting Started.htm" />
+        <Url Source="../Rambunctious Lions/Content/A_Getting Started/Whats New.htm" AbsoluteSource="file:///C:/Users/pengland/Desktop/! Test Projects/Rambunctious Lions/Content/A_Getting Started/Whats New.htm" />
+        <Url Source="../Rambunctious Lions/Content/B_Links and Lists/Links.htm" AbsoluteSource="file:///C:/Users/pengland/Desktop/! Test Projects/Rambunctious Lions/Content/B_Links and Lists/Links.htm" />
+        <Url Source="../Rambunctious Lions/Content/B_Links and Lists/LinksAndLists.htm" AbsoluteSource="file:///C:/Users/pengland/Desktop/! Test Projects/Rambunctious Lions/Content/B_Links and Lists/LinksAndLists.htm" />
+        <Url Source="../Rambunctious Lions/Content/B_Links and Lists/Lists.htm" AbsoluteSource="file:///C:/Users/pengland/Desktop/! Test Projects/Rambunctious Lions/Content/B_Links and Lists/Lists.htm" />
+        <Url Source="../Rambunctious Lions/Content/C_Conditions Notes Tables/Conditions.htm" AbsoluteSource="file:///C:/Users/pengland/Desktop/! Test Projects/Rambunctious Lions/Content/C_Conditions Notes Tables/Conditions.htm" />
+        <Url Source="../Rambunctious Lions/Content/C_Conditions Notes Tables/ConditionsNotesTables.htm" AbsoluteSource="file:///C:/Users/pengland/Desktop/! Test Projects/Rambunctious Lions/Content/C_Conditions Notes Tables/ConditionsNotesTables.htm" />
+        <Url Source="../Rambunctious Lions/Content/C_Conditions Notes Tables/NotesExamplesQuotations.htm" AbsoluteSource="file:///C:/Users/pengland/Desktop/! Test Projects/Rambunctious Lions/Content/C_Conditions Notes Tables/NotesExamplesQuotations.htm" />
+        <Url Source="../Rambunctious Lions/Content/C_Conditions Notes Tables/Tables.htm" AbsoluteSource="file:///C:/Users/pengland/Desktop/! Test Projects/Rambunctious Lions/Content/C_Conditions Notes Tables/Tables.htm" />
+        <Url Source="../Rambunctious Lions/Content/D_Images/ImagePositionedLeft.htm" AbsoluteSource="file:///C:/Users/pengland/Desktop/! Test Projects/Rambunctious Lions/Content/D_Images/ImagePositionedLeft.htm" />
+        <Url Source="../Rambunctious Lions/Content/D_Images/ImagePositionedRight.htm" AbsoluteSource="file:///C:/Users/pengland/Desktop/! Test Projects/Rambunctious Lions/Content/D_Images/ImagePositionedRight.htm" />
+        <Url Source="../Rambunctious Lions/Content/D_Images/Images.htm" AbsoluteSource="file:///C:/Users/pengland/Desktop/! Test Projects/Rambunctious Lions/Content/D_Images/Images.htm" />
+        <Url Source="../Rambunctious Lions/Content/D_Images/ImageWithinList.htm" AbsoluteSource="file:///C:/Users/pengland/Desktop/! Test Projects/Rambunctious Lions/Content/D_Images/ImageWithinList.htm" />
+        <Url Source="../Rambunctious Lions/Content/D_Images/Positioned Images.htm" AbsoluteSource="file:///C:/Users/pengland/Desktop/! Test Projects/Rambunctious Lions/Content/D_Images/Positioned Images.htm" />
+        <Url Source="../Rambunctious Lions/Content/D_Images/ThumbnailImage.htm" AbsoluteSource="file:///C:/Users/pengland/Desktop/! Test Projects/Rambunctious Lions/Content/D_Images/ThumbnailImage.htm" />
+        <Url Source="../Rambunctious Lions/Content/E_Footer Topics/Company Information.htm" AbsoluteSource="file:///C:/Users/pengland/Desktop/! Test Projects/Rambunctious Lions/Content/E_Footer Topics/Company Information.htm" />
+        <Url Source="../Rambunctious Lions/Content/E_Footer Topics/FAQs.htm" AbsoluteSource="file:///C:/Users/pengland/Desktop/! Test Projects/Rambunctious Lions/Content/E_Footer Topics/FAQs.htm" />
+        <Url Source="../Rambunctious Lions/Content/E_Footer Topics/PDF Downloads.htm" AbsoluteSource="file:///C:/Users/pengland/Desktop/! Test Projects/Rambunctious Lions/Content/E_Footer Topics/PDF Downloads.htm" />
+        <Url Source="../Rambunctious Lions/Content/E_Footer Topics/Tips.htm" AbsoluteSource="file:///C:/Users/pengland/Desktop/! Test Projects/Rambunctious Lions/Content/E_Footer Topics/Tips.htm" />
+    </CollectedSourceFiles>
+    <SkippedSourceFiles />
+    <GeneratedFiles>
+        <Url Source="Content/Home.htm" TimeStamp="10/24/2018 9:28:18 AM" />
+        <Url Source="Content/A_Getting Started/Basic Steps.htm" TimeStamp="10/24/2018 9:28:18 AM" />
+        <Url Source="Content/A_Getting Started/Getting Started.htm" TimeStamp="10/24/2018 9:28:18 AM" />
+        <Url Source="Content/A_Getting Started/Whats New.htm" TimeStamp="10/24/2018 9:28:18 AM" />
+        <Url Source="Content/B_Links and Lists/Links.htm" TimeStamp="10/24/2018 9:28:18 AM" />
+        <Url Source="Content/B_Links and Lists/LinksAndLists.htm" TimeStamp="10/24/2018 9:28:18 AM" />
+        <Url Source="Content/B_Links and Lists/Lists.htm" TimeStamp="10/24/2018 9:28:18 AM" />
+        <Url Source="Content/C_Conditions Notes Tables/Conditions.htm" TimeStamp="10/24/2018 9:28:18 AM" />
+        <Url Source="Content/C_Conditions Notes Tables/ConditionsNotesTables.htm" TimeStamp="10/24/2018 9:28:18 AM" />
+        <Url Source="Content/C_Conditions Notes Tables/NotesExamplesQuotations.htm" TimeStamp="10/24/2018 9:28:18 AM" />
+        <Url Source="Content/C_Conditions Notes Tables/Tables.htm" TimeStamp="10/24/2018 9:28:18 AM" />
+        <Url Source="Content/D_Images/ImagePositionedLeft.htm" TimeStamp="10/24/2018 9:28:18 AM" />
+        <Url Source="Content/D_Images/ImagePositionedRight.htm" TimeStamp="10/24/2018 9:28:18 AM" />
+        <Url Source="Content/D_Images/Images.htm" TimeStamp="10/24/2018 9:28:18 AM" />
+        <Url Source="Content/D_Images/ImageWithinList.htm" TimeStamp="10/24/2018 9:28:18 AM" />
+        <Url Source="Content/D_Images/Positioned Images.htm" TimeStamp="10/24/2018 9:28:18 AM" />
+        <Url Source="Content/D_Images/ThumbnailImage.htm" TimeStamp="10/24/2018 9:28:18 AM" />
+        <Url Source="Content/E_Footer Topics/Company Information.htm" TimeStamp="10/24/2018 9:28:18 AM" />
+        <Url Source="Content/E_Footer Topics/FAQs.htm" TimeStamp="10/24/2018 9:28:18 AM" />
+        <Url Source="Content/E_Footer Topics/PDF Downloads.htm" TimeStamp="10/24/2018 9:28:18 AM" />
+        <Url Source="Content/E_Footer Topics/Tips.htm" TimeStamp="10/24/2018 9:28:18 AM" />
+    </GeneratedFiles>
+</CatapultProject>

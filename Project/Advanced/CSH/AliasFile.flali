@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultAliasFile>
+    <Map Name="Topic1" Link="/Content/Topics/Long Text Topic.htm" Skin="/Project/Skins/Tripane CSH.flskn" />
+    <Map Name="NameOne" Link="/Content/Topics/NAME-ONE.htm" />
+</CatapultAliasFile>

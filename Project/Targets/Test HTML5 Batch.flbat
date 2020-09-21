@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target"
+  Guid="30132bd6-60f1-47eb-a4d2-16ab58a0ab36">
+  <Targets>
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="CHM"
+      Type="HTML Help"
+      LastBuilt="2020-03-12T03:51:01.1672264-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="CSH"
+      Type="HTML Help"
+      LastBuilt="2019-12-03T11:21:35.5728474-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="External Link"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5"
+      Type="HTML5"
+      Build="true"
+      LastBuilt="2020-06-09T03:31:07.6444950-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF Testing"
+      Type="PDF"
+      LastBuilt="2020-04-14T07:45:24.1921404-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Prettify HTML5"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Target XYZ"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Test"
+      Type="HTML5"
+      Build="true"
+      LastBuilt="2019-12-12T07:56:03.2919967-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="WebHelp"
+      Type="WebHelp"
+      LastBuilt="2020-04-01T01:31:37.5147665-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Word"
+      Type="Word"
+      LastBuilt="2020-04-21T01:58:45.7780710-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Zendesk"
+      Type="Clean XHTML" />
+  </Targets>
+</CatapultBatchTarget>

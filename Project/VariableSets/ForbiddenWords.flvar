@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment="doop doop"
+    Name="Desk"
+    EvaluatedDefinition="Table">Table</Variable>
+</CatapultVariableSet>

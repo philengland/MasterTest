@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host="ts.madcapsoftware.com"
+  User="MyAccountId"
+  Password=""
+  Directory="/HttpDownloads/PEngland/Master Test"
+  Port=""
+  ViewUrl=""
+  Type="ftp"
+  ConnectionMode="Active"></CatapultDestination>

@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <h1>Table Parsing</h1>
+        <h2>Content, as pasted directly from Word:</h2>
+        <p>NAME	VARIABLE	FORMULA	LN	LL	LLN	LLL	LLLN</p>
+        <p>Amps Average	amps_avg	(Amps phase sum) / (number ofpoles) 			X	X	X</p>
+        <p>Amps Unbalance	amps_unbalance	((max|Amps phase value - Amps_Avg|) /</p>
+        <p>Amps_Avg) * 100			X	X	X</p>
+        <p>Load Percent	load_percent	((maxAmps phase value) / BreakerSize)</p>
+        <p>* 100       			X	X	X</p>
+        <p>Load Percent x</p>
+        <p>(Per Phase)	load_percent_x	(Amps_X / BreakerSize) * 100     	X	X	X	X	X</p>
+        <p>Volts LN Average	volts_ln_avg	(Volts_LN sum) / (number of poles)           			X		X</p>
+        <p>Volts LL Average	volts_ll_avg	(Volts_LL sum) / (number of poles)           			&gt; 	X	X</p>
+        <p>Volts xN (LN - Per</p>
+        <p>Phase)	volts_xn	(kVA_X * 1000) / Amps_X                	X		X		X</p>
+        <p>Volts xN (LN - Per</p>
+        <p>Phase)	volts_xn	(kW_X * 1000) / (Amps_X * PF_X)               	X		X		X</p>
+        <p>Volts xN (LN - Per</p>
+        <p>Phase)	volts_xy	(kVA_X * 1000) / Amps_X                		X</p>
+        <p>Volts xy(LL - Per</p>
+        <p>Phase)	volts_xy	(kW_X * 1000) / (Amps_X * PF_X)               		X</p>
+        <p>Volts xy(LL - Per</p>
+        <p>Phase)	volts_xy	(kVA_X * 1000 * 1.732) / Amps_X				X	X</p>
+        <p>Volts xy(LL - Per</p>
+        <p>Phase)	volts_xy	(kW_X * 1000 * 1.732) / (Amps_X * PF_X)				X	X</p>
+        <p>Volts Unbalance	volts_unbalance	((max|Volts_LN - Volts_LNAvg|) / Volts_</p>
+        <p>LNAvg) * 100			X		X</p>
+        <p>Volts Unbalance	volts_unbalance	((max|Volts_LL - Volts_LLAvg|) / Volts_</p>
+        <p>LLAvg) * 100				X	X</p>
+        <p>PF	pf	kW/ kVA                              			X	X	X</p>
+        <p>PF x(Per Phase)	pf_x	kW_X / kVA_X                           	X	X	X	X	X</p>
+        <p>kW	kW	(kWphase sum)                         			X	X	X</p>
+        <p>kW	kW	(3 * Volts_LNAvg * Amps_Avg * PF) /</p>
+        <p>1000            					X</p>
+        <p>kW	kW	(1.732 * Volts_LLAvg * Amps_Avg * PF) /</p>
+        <p>1000          				X	X</p>
+        <p>&#160;</p>
+        <h2>Content, after grouping separated cells that were split during pasting because of Word line wraps:</h2>
+        <p>NAME	VARIABLE	FORMULA	LN	LL	LLN	LLL	LLLN</p>
+        <p>Amps Average	amps_avg	(Amps phase sum) / (number ofpoles) 			X	X	X</p>
+        <p>Amps Unbalance	amps_unbalance	((max|Amps phase value - Amps_Avg|) / Amps_Avg) * 100			X	X	X</p>
+        <p>Load Percent	load_percent	((maxAmps phase value) / BreakerSize) * 100       			X	X	X</p>
+        <p>Load Percent x (Per Phase)	load_percent_x	(Amps_X / BreakerSize) * 100     	X	X	X	X	X</p>
+        <p>Volts LN Average	volts_ln_avg	(Volts_LN sum) / (number of poles)           			X		X</p>
+        <p>Volts LL Average	volts_ll_avg	(Volts_LL sum) / (number of poles)           			&gt; 	X	X</p>
+        <p>Volts xN (LN - Per Phase)	volts_xn	(kVA_X * 1000) / Amps_X                	X		X		X</p>
+        <p>Volts xN (LN - Per Phase)	volts_xn	(kW_X * 1000) / (Amps_X * PF_X)               	X		X		X</p>
+        <p>Volts xN (LN - Per Phase)	volts_xy	(kVA_X * 1000) / Amps_X                		X</p>
+        <p>Volts xy(LL - Per Phase)	volts_xy	(kW_X * 1000) / (Amps_X * PF_X)               		X</p>
+        <p>Volts xy(LL - Per Phase)	volts_xy	(kVA_X * 1000 * 1.732) / Amps_X				X	X</p>
+        <p>Volts xy(LL - Per Phase)	volts_xy	(kW_X * 1000 * 1.732) / (Amps_X * PF_X)				X	X</p>
+        <p>Volts Unbalance	volts_unbalance	((max|Volts_LN - Volts_LNAvg|) / Volts_LNAvg) * 100			X		X</p>
+        <p>Volts Unbalance	volts_unbalance	((max|Volts_LL - Volts_LLAvg|) / Volts_LLAvg) * 100				X	X</p>
+        <p>PF	pf	kW/ kVA                              			X	X	X</p>
+        <p>PF x(Per Phase)	pf_x	kW_X / kVA_X                           	X	X	X	X	X</p>
+        <p>kW	kW	(kWphase sum)                         			X	X	X</p>
+        <p>kW	kW	(3 * Volts_LNAvg * Amps_Avg * PF) / 1000            					X</p>
+        <p>kW	kW	(1.732 * Volts_LLAvg * Amps_Avg * PF) / 1000          				X	X</p>
+        <p>&#160;</p>
+        <h2>Content, with ; delimiters added:</h2>
+        <p>NAME; VARIABLE; FORMULA;	LN;	LL;	LLN;	LLL;	LLLN</p>
+        <p>Amps Average;	amps_avg;	(Amps phase sum) / (number ofpoles); ; ;			X;	X;	X</p>
+        <p>Amps Unbalance;	amps_unbalance;	((max|Amps phase value - Amps_Avg|) / Amps_Avg) * 100; ; ;			X;	X;	X</p>
+        <p>Load Percent;	load_percent;	((maxAmps phase value) / BreakerSize) * 100; ; ;     			X;	X;	X</p>
+        <p>Load Percent x (Per Phase);	load_percent_x;	(Amps_X / BreakerSize) * 100;     	X;	X;	X;	X;	X</p>
+        <p>Volts LN Average;	volts_ln_avg;	(Volts_LN sum) / (number of poles); ; ;         			X; ;		X</p>
+        <p>Volts LL Average;	volts_ll_avg;	(Volts_LL sum) / (number of poles); ; ;         			&gt;; 	X;	X</p>
+        <p>Volts xN (LN - Per Phase);	volts_xn;	(kVA_X * 1000) / Amps_X;                	X; ;		X; ;		X</p>
+        <p>Volts xN (LN - Per Phase);	volts_xn;	(kW_X * 1000) / (Amps_X * PF_X);               	X; ;		X; ;		X</p>
+        <p>Volts xN (LN - Per Phase);	volts_xy;	(kVA_X * 1000) / Amps_X; ;               		X; ; ; </p>
+        <p>Volts xy(LL - Per Phase);	volts_xy;	(kW_X * 1000) / (Amps_X * PF_X); ;              		X; ; ; </p>
+        <p>Volts xy(LL - Per Phase);	volts_xy;	(kVA_X * 1000 * 1.732) / Amps_X; ; ; ;				X;	X</p>
+        <p>Volts xy(LL - Per Phase);	volts_xy;	(kW_X * 1000 * 1.732) / (Amps_X * PF_X); ; ; ;				X;	X</p>
+        <p>Volts Unbalance;	volts_unbalance;	((max|Volts_LN - Volts_LNAvg|) / Volts_LNAvg) * 100; ; ;			X; ;		X</p>
+        <p>Volts Unbalance;	volts_unbalance;	((max|Volts_LL - Volts_LLAvg|) / Volts_LLAvg) * 100; ; ; ;				X;	X</p>
+        <p>PF;	pf;	kW/ kVA; ; ;                            			X;	X;	X</p>
+        <p>PF x(Per Phase);	pf_x;	kW_X / kVA_X;                           	X;	X;	X;	X;	X;</p>
+        <p>kW;	kW;	(kWphase sum); ; ;                       			X;	X;	X</p>
+        <p>kW;	kW;	(3 * Volts_LNAvg * Amps_Avg * PF) / 1000; ; ; ; ;        					X</p>
+        <p>kW;	kW;	(1.732 * Volts_LLAvg * Amps_Avg * PF) / 1000; ; ; ;       				X;	X</p>
+        <p>&#160;</p>
+        <h2>Content, with spaces removed</h2>
+        <p>NAME;VARIABLE;FORMULA;LN;LL;LLN;LLL;LLLN</p>
+        <p>Amps Average;amps_avg;(Amps phase sum) / (number ofpoles); ; ;X;X;X</p>
+        <p>Amps Unbalance;amps_unbalance;((max|Amps phase value - Amps_Avg|) / Amps_Avg) * 100; ; ;X;X;X</p>
+        <p>Load Percent;load_percent;((maxAmps phase value) / BreakerSize) * 100; ; ;X;X;X</p>
+        <p>Load Percent x (Per Phase);	load_percent_x;	(Amps_X / BreakerSize) * 100;X;X;X;X;X</p>
+        <p>Volts LN Average;volts_ln_avg;(Volts_LN sum) / (number of poles); ; ;X; ;X </p>
+        <p>Volts LL Average;volts_ll_avg;(Volts_LL sum) / (number of poles); ; ;&gt;;X;X</p>
+        <p>Volts xN (LN - Per Phase);volts_xn;(kVA_X * 1000) / Amps_X;X; ;X; ;X</p>
+        <p>Volts xN (LN - Per Phase);volts_xn;(kW_X * 1000) / (Amps_X * PF_X);X; ;X; ;X</p>
+        <p>Volts xN (LN - Per Phase);volts_xy;(kVA_X * 1000) / Amps_X; ;X; ; ; </p>
+        <p>Volts xy(LL - Per Phase);volts_xy;(kW_X * 1000) / (Amps_X * PF_X); ;X; ; ; </p>
+        <p>Volts xy(LL - Per Phase);volts_xy;(kVA_X * 1000 * 1.732) / Amps_X; ; ; ;X;X</p>
+        <p>Volts xy(LL - Per Phase);volts_xy;(kW_X * 1000 * 1.732) / (Amps_X * PF_X); ; ; ;X;X</p>
+        <p>Volts Unbalance;volts_unbalance;((max|Volts_LN - Volts_LNAvg|) / Volts_LNAvg) * 100; ; ;X; ;X</p>
+        <p>Volts Unbalance;volts_unbalance;((max|Volts_LL - Volts_LLAvg|) / Volts_LLAvg) * 100; ; ; ;X;X</p>
+        <p>PF;pf;kW/ kVA; ; ;X;X;X</p>
+        <p>PF x(Per Phase);pf_x;kW_X / kVA_X;X;X;X;X;X</p>
+        <p>kW;kW;(kWphase sum); ; ;X;X;X</p>
+        <p>kW;kW;(3 * Volts_LNAvg * Amps_Avg * PF) / 1000; ; ; ; ;X</p>
+        <p>kW;kW;(1.732 * Volts_LLAvg * Amps_Avg * PF) / 1000; ; ; ;X;X</p>
+        <p>&#160;</p>
+        <h2>Comparison</h2>
+        <p>Column1;Column2;Column3;Column4;Column5;</p>
+        <p>Data1;Data2;Data3;Data4;Data5;</p>
+        <p>x;x;o;x;x</p>
+        <p>x;x;&gt;;x;x</p>
+        <p>&#160;</p>
+        <h2>Observations:</h2>
+        <ul>
+            <li>Don't terminate a line with the delimiter, as the next &lt;p&gt; element's beginning will already act as a partition</li>
+            <li>What looks like a space character in the XML Editor can sometimes actually be one or many tabs compressed into a single space character visually, depending on source formatting... note the differences in content spacing in the Text Editor between the different sections of the process, despite very little appearance change in XML Editor.</li>
+            <li>The '&gt;' character seems to break the parser and cause the Exception report. See the Comparison section for proof. Can make a Table from the first 3 lines without issue, then see the Exception thrown when including the fourth line. Swap that character and the data becomes a Table as expected.</li>
+        </ul>
+    </body>
+</html>

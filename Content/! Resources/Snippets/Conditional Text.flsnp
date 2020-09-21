@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <h1>This is a snippet with Conditioned text elements in it.</h1>
+        <h2 MadCap:conditions="Default.Condition1">Condition 1 Stuff</h2>
+        <p MadCap:conditions="Default.Condition1">Insert your content here for Cond. 1.</p>
+        <h2 MadCap:conditions="Default.Condition2">Condition 2 Stuff</h2>
+        <p MadCap:conditions="Default.Condition2">Insert your Cond 2. content here.</p>
+        <p MadCap:conditions="Default.Condition2">&#160;</p>
+        <p MadCap:conditions="Default.Condition2"><MadCap:variable name="Variables.Date/Time" />
+        </p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>asdf asd <MadCap:xref href="../../Topics/Slideshow.htm">"Slideshow" on page&#160;1</MadCap:xref> asdfa </p>
+        <p>then there was <b>some bolded text information</b> there</p>
+    </body>
+</html>

@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultExportProjectFile
+  DestinationType="ManualSelection"
+  SourceProjectPath="C:\Users\pengland\Desktop\! Test Projects\! Master Test\Master Test.flprj"
+  DestinationName="Mini Master"
+  DestinationPath="C:\Users\pengland\Desktop"
+  ExportType="Files"
+  TargetConvertVariables="false"
+  TargetConvertSnippets="false">
+  <SelectedContentFiles>
+    <Url
+      Source="! Resources" />
+    <Url
+      Source="! Resources/MasterPages" />
+    <Url
+      Source="! Resources/MasterPages/MasterPage.flmsp" />
+    <Url
+      Source="! Resources/MasterPages/MasterPage_Snippet TTP.flmsp" />
+    <Url
+      Source="! Resources/MasterPages/Menu Proxy.flmsp" />
+    <Url
+      Source="! Resources/MasterPages/prettify.flmsp" />
+    <Url
+      Source="! Resources/MasterPages/Search.flmsp" />
+    <Url
+      Source="! Resources/MasterPages/Test.flmsp" />
+    <Url
+      Source="! Resources/PageLayouts" />
+    <Url
+      Source="! Resources/PageLayouts/Default.flpgl" />
+    <Url
+      Source="! Resources/PageLayouts/Test Page Layout.flpgl" />
+    <Url
+      Source="! Resources/PageLayouts/Test.flpgl" />
+    <Url
+      Source="! Resources/PageLayouts/Test2.flpgl" />
+    <Url
+      Source="! Resources/Stylesheets" />
+    <Url
+      Source="! Resources/Stylesheets/MainStyles.css" />
+    <Url
+      Source="Topics/Multilevel Topic 1.htm" />
+    <Url
+      Source="Topics/Multilevel Topic 2.htm" />
+  </SelectedContentFiles>
+  <SelectedProjectFiles>
+    <Url
+      Source="Advanced" />
+    <Url
+      Source="Advanced/Auto Index Sets" />
+    <Url
+      Source="Advanced/Auto Index Sets/AutoIndexSet.flaix" />
+    <Url
+      Source="Advanced/Auto Suggestion Sets" />
+    <Url
+      Source="Advanced/Auto Suggestion Sets/AutoSuggestionSet.fltbx" />
+    <Url
+      Source="Advanced/Browse Sequences" />
+    <Url
+      Source="Advanced/Browse Sequences/BrowseSequence.flbrs" />
+    <Url
+      Source="Advanced/CSH" />
+    <Url
+      Source="Advanced/CSH/AliasFile.flali" />
+    <Url
+      Source="Advanced/CSH/HeaderFile.h" />
+    <Url
+      Source="Advanced/File Tags" />
+    <Url
+      Source="Advanced/File Tags/FileTagSetAuthor.flfts" />
+    <Url
+      Source="Advanced/File Tags/FileTagSetStatus.flfts" />
+    <Url
+      Source="Advanced/Index Link Sets" />
+    <Url
+      Source="Advanced/Index Link Sets/IndexLinkSet.flixl" />
+    <Url
+      Source="Advanced/Relationship Tables" />
+    <Url
+      Source="Advanced/Relationship Tables/Language Skins" />
+    <Url
+      Source="Advanced/Relationship Tables/Language Skins/Chinese - HK.fllng" />
+    <Url
+      Source="Advanced/Relationship Tables/RelationshipTable.flrtb" />
+    <Url
+      Source="Advanced/Search Filters" />
+    <Url
+      Source="Advanced/Search Filters/SearchFilter.flsfs" />
+    <Url
+      Source="Advanced/Synonyms" />
+    <Url
+      Source="Advanced/Synonyms/Synonyms.mcsyns" />
+    <Url
+      Source="Advanced/English (United States) Dictionary.mcdic" />
+    <Url
+      Source="ConditionTagSets" />
+    <Url
+      Source="ConditionTagSets/Default.flcts" />
+    <Url
+      Source="Destinations" />
+    <Url
+      Source="Destinations/File System - Desktop.fldes" />
+    <Url
+      Source="Destinations/FTP - TS.fldes" />
+    <Url
+      Source="Destinations/SalesForce.fldes" />
+    <Url
+      Source="Destinations/SharePoint.fldes" />
+    <Url
+      Source="Destinations/Zendesk - QA.fldes" />
+    <Url
+      Source="Exports" />
+    <Url
+      Source="Exports/Master Test.flexp" />
+    <Url
+      Source="Exports/TableStyle Export Test.flexp" />
+    <Url
+      Source="Glossaries" />
+    <Url
+      Source="Glossaries/Glossary.flglo" />
+    <Url
+      Source="Imports" />
+    <Url
+      Source="Reports" />
+    <Url
+      Source="Reports/Bookmarks.flrep" />
+    <Url
+      Source="Reports/Count Links.flrep" />
+    <Url
+      Source="Reports/Critical Issues Report.flrep" />
+    <Url
+      Source="Reports/Multiple TOCs.flrep" />
+    <Url
+      Source="Reports/Statistics.flrep" />
+    <Url
+      Source="Reports/Unused Images.flrep" />
+    <Url
+      Source="Reports/Unused Items Report.flrep" />
+    <Url
+      Source="Skins" />
+    <Url
+      Source="Skins/Default.flskn" />
+    <Url
+      Source="Skins/Favicon.flskn" />
+    <Url
+      Source="Skins/HTML5 - Side Navigation 2.flskn" />
+    <Url
+      Source="Skins/HTML5 - Side Navigation.flskn" />
+    <Url
+      Source="Skins/HTML5 - Top Navigation.flskn" />
+    <Url
+      Source="Skins/HTML5 - Tripane.flskn" />
+    <Url
+      Source="Skins/Menu.flskn" />
+    <Url
+      Source="Skins/Search Results.flskn" />
+    <Url
+      Source="Skins/Skin-HTML5-KD-suite.flskn" />
+    <Url
+      Source="Skins/Topic Toolbar.flskn" />
+    <Url
+      Source="Skins/TopNav CSH.flskn" />
+    <Url
+      Source="Skins/Tripane CSH.flskn" />
+    <Url
+      Source="Targets" />
+    <Url
+      Source="Targets/CSH.fltar" />
+    <Url
+      Source="Targets/External Link.fltar" />
+    <Url
+      Source="Targets/HTML5.fltar" />
+    <Url
+      Source="Targets/PDF Testing.fltar" />
+    <Url
+      Source="Targets/Prettify HTML5.fltar" />
+    <Url
+      Source="Targets/Target XYZ.fltar" />
+    <Url
+      Source="Targets/Test.fltar" />
+    <Url
+      Source="Targets/Word.fltar" />
+    <Url
+      Source="Targets/Zendesk.fltar" />
+    <Url
+      Source="TOCs" />
+    <Url
+      Source="TOCs/convert_toFlare.fltoc" />
+    <Url
+      Source="TOCs/CSH Testing.fltoc" />
+    <Url
+      Source="TOCs/External Link.fltoc" />
+    <Url
+      Source="TOCs/HTML5.fltoc" />
+    <Url
+      Source="TOCs/Master.fltoc" />
+    <Url
+      Source="TOCs/PDF Testing.fltoc" />
+    <Url
+      Source="TOCs/Test.fltoc" />
+    <Url
+      Source="TOCs/Word Testing.fltoc" />
+    <Url
+      Source="TOCs/XYZ.fltoc" />
+    <Url
+      Source="TOCs/Zendesk.fltoc" />
+    <Url
+      Source="VariableSets" />
+    <Url
+      Source="VariableSets/ForbiddenWords.flvar" />
+    <Url
+      Source="VariableSets/Variables.flvar" />
+  </SelectedProjectFiles>
+</CatapultExportProjectFile>
